@@ -1,0 +1,19 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node
+node_modules/
+frontend/node_modules/
+dist/
+build/
+frontend/dist/
+.DS_Store
+
+# Models
+ml_pipeline/models/*.pkl
+ml_pipeline/models/*.joblib
+ml_pipeline/models/*.json
+data/*.csv
