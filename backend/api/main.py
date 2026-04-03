@@ -8,7 +8,18 @@ from dotenv import load_dotenv
 # Force override so it prioritizes .env over stale PowerShell variables!
 load_dotenv(override=True)
 
+from fastapi.middleware.cors import CORSMiddleware
+
 app = FastAPI(title="Customer Retention Agentic API")
+
+# Setup CORS to allow Vercel Frontend to communicate with Render Backend
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 class CustomerProfile(BaseModel):
     customer_id: str
