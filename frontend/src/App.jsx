@@ -71,7 +71,7 @@ function App() {
         setActiveStep(prev => (prev < 5 ? prev + 1 : prev));
       }, 800);
 
-      const res = await axios.post('/api/v1/run-agents', {
+      const res = await axios.post('https://agentic-retention-ai-1.onrender.com/api/v1/run-agents', {
         customer_id: `CUST_${Date.now()}`,
         ...profile
       });
