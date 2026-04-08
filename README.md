@@ -190,28 +190,26 @@ git push -u origin main
 ## 🎯 Strategic Implementations
 
 - **University Final-Year Major Project** (Distinction-level validation)
-- **FAANG / Enterprise Interview Demonstration**
 - **Production-Grade Analytics Concept Showcase**
 - **Multi-Agent Orchestration & Explainable AI Proof of Concept**
 
 ---
 
-## 👨‍💻 Engineering Core
+## 👤 Author
 
-**Kamran Kausher**  
-Final-Year B.Tech CSE  
-*AI/ML & Generative AI Systems Engineer*
+Kamran Kausher
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/kamran-kausher-7585b0370">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/kamrankausher">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:kamrankausher@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+🎓 Final-year B.Tech Computer Science Student
+💡 Data Science | Machine Learning | AI Engineering
+
+---
+
+## 🌐 **Connect with me:**  
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamran-kausher-7585b0370)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)](https://github.com/kamrankausher)  [![Email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:kamrankausher@gmail.com)
+
 </div>
 
 ---
