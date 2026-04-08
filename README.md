@@ -18,11 +18,10 @@ A **production-grade, full-stack enterprise application** that predicts customer
 ## 👁️‍🗨️ Application Preview
 
 <p align="center">
-  <em>Sleek, staggered data revelation designed for FAANG-level business intelligence.</em><br/><br/>
-  <!-- Replace the 'src' below with your actual project screenshots when ready -->
-  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2670&auto=format&fit=crop" width="850" alt="Dashboard Cover Placeholder" style="border-radius: 8px; border: 1px solid #333;" />
+  <img src="screenshot/dashboard.png" width="800"/>
   <br/><br/>
-  <img src="https://images.unsplash.com/photo-1618761714954-0b8cd0026356?q=80&w=2670&auto=format&fit=crop" width="850" alt="Agent Pipeline Placeholder" style="border-radius: 8px; border: 1px solid #333;" />
+  <img src="screenshot/prediction.png" width="800"/>
+  
 </p>
 
 ---
@@ -48,7 +47,7 @@ The intelligence layer runs on a cyclic, event-driven flow managed by **LangGrap
 - **Autonomous Agentic Orchestration:** Operates autonomously via LangGraph, managing state and looping between sub-agents to synthesize final decisions.
 - **Explainable AI (XAI):** Moves beyond "black box" prediction. Feeds specific friction points (calculated via SHAP) directly into the LLM logic gates.
 - **Lightning-Fast Reasoning:** Utilizes Groq's LPU inference engine to run `llama-3.3-70b-versatile` with instantaneous latency.
-- **Glassmorphic React UI:** Built with Vite and Framer Motion, featuring smooth pipeline visualizations, animated widgets, and premium dark-mode styling.
+- **React UI:** Built with Vite and Framer Motion, featuring smooth pipeline visualizations, animated widgets, and dark-mode styling.
 
 ---
 
@@ -199,7 +198,7 @@ git push -u origin main
 
 Kamran Kausher
 
-🎓 Final-year B.Tech Computer Science Student
+🎓 Final-year B.Tech Computer Science Student <br>
 💡 Data Science | Machine Learning | AI Engineering
 
 ---
